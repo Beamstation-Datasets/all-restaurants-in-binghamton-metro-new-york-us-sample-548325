@@ -1,0 +1,12 @@
+{
+  "export_job_id": "eaa11c32-6b75-4887-902a-fa25e93c95fb",
+  "id_short": 548325,
+  "published_at": "2026-04-13T07:04:15Z",
+  "repo_name": "all-restaurants-in-binghamton-metro-new-york-us-sample-548325",
+  "sample_asset_name": "beamstation_548325_restaurants-us-binghamtonny_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/548325/beamstation_548325_restaurants-us-binghamtonny_SAMPLE_DIST.csv",
+  "sample_records": 47,
+  "sample_sha256": "e0b8997293340aabef3c0a22e86e57071d83321b02dbe92e7d54956f1dd156a1",
+  "sample_size_bytes": 179832,
+  "total_records": 471
+}
