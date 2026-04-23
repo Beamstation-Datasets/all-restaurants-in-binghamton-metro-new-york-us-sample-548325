@@ -1,6 +1,6 @@
 # All Restaurants in Binghamton (Metro), New York, US
 
-> Free BeamStation sample export with 44 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `548325` |
 | Location | Binghamton, NY |
 | Category | Restaurants |
-| Full dataset size | 446 records |
-| Free sample size | 44 records (9.87%) |
-| Last export | 2026-04-16T10:01:15.990393+00:00 |
+| Full dataset size | 389 records |
+| Free sample size | 38 records (9.77%) |
+| Last export | 2026-04-23T09:58:04.294026+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-binghamton-metro-new-york-us-sample-548325/releases/download/sample-latest/beamstation_548325_restaurants-us-binghamtonny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
